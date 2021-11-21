@@ -3,6 +3,7 @@
 
 #include <cstddef>
 #include <stdexcept>
+
 #include "cs128string.hpp"
 #include "node.hpp"
 
